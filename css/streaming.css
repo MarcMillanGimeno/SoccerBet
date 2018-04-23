@@ -1,0 +1,168 @@
+body{
+	overflow-y: hidden;
+	overflow-x: hidden;
+	margin-top: 0px !important;
+}
+
+#tweet-content-big{
+	font-size: xx-large;
+}
+
+.apuestaContainer{
+	background-color: rgba(255, 255, 255, 0.3);
+	border-radius: 10px;
+	border: 3px solid white!important;
+	margin-top: 10px;
+	width: 1344px;
+    height: 110px;
+}
+
+.apostado{
+	text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+
+.apostarImg{
+	height: 70px;
+}
+
+.apuestas-text{
+	color: white;
+}
+
+.m-font{
+	font-size: x-large !important;
+    color: darkgrey !important;
+}
+
+
+.tweet-info{
+	background-color:white;
+	width: 700px;
+    margin-left: 610px;
+    margin-top: 400px;
+}
+
+.apuesta-text-big{
+	font-size: xx-large;
+}
+
+#apuesta-concept-text{
+	font-size: x-large;
+}
+
+.big-option{
+	border: 1px solid #ccc!important;
+	border-radius: 16px;
+	text-align: center;
+}
+
+.apuesta-info{
+	background-color: white;
+    width: 1000px;
+    margin-left: 310px;
+    margin-top: 400px;
+}
+
+.big{
+	z-index: 1000;
+    position: absolute;
+    height: 1080px;
+    width: 1950px;
+}
+
+#black-sreem{
+	background-color: rgba(0, 0, 0, 0.7);
+	z-index: -1;
+    position: absolute;
+    height: 1080px;
+    width: 1950px;
+    left: 0px !important;
+}
+
+#rightStreaming
+{
+	background-color: white;
+	height: 1080px;
+}
+
+.apuestasWeb{
+	height: 60px;
+    width: 120px;
+}
+
+.apuesta-ratio{
+	padding-left: 40px !important;
+}
+
+.avatar-twitter{
+	height: 90px;
+}
+
+.UserName-twitter{
+	color: grey;
+}
+
+.relative-time{
+	color:grey;
+}
+
+.tweet{
+	background-color: #F8F8FF;
+	border-bottom: 1px solid #ccc!important;
+	border-top: 1px solid #ccc!important;
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.s-font{
+	font-size: small;
+}
+
+#leftStreaming
+{
+	padding-left: 5px !important;
+    padding-right: 5px !important;
+	background-color: black;
+	height: 1080px;
+}
+
+#hashtag
+{
+	font-size: xx-large;
+    color: grey;
+}
+
+#videoPartido{
+	
+}
+
+#videoStreaming
+{ 
+	background-image: url("../images/streaming/StreamingBackground.jpg");
+	background-position: 50% 50%;
+	height: 756px;
+}
+
+#apuestasStreaming
+{ 
+	margin-top: 5px;
+	background-image: url("../images/streaming/StreamingApuestas.jpg");
+	height: 319px;
+	padding: 25px;
+}
+
+ #videoContainer
+ {
+ 	justify-content: center;
+    display: flex;
+ }
+ 
+ #nameStreaming
+ {
+    padding-left: 4%;
+    padding-top: 0.5%;
+    font-size: 30px;
+    margin-bottom: 10px !important;
+ }

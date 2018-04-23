@@ -1,0 +1,142 @@
+
+body{
+	
+	background-color: rgb(27, 36, 56);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 70%;
+    margin: 0px !important;
+}
+
+.itemsMenu{
+	margin-top: 0px !important;
+	height: 40px !important;
+}
+.itemsMenu h3{
+	font-size: 30px ;
+	margin-top: 0px !important;
+	color: white;
+}
+div.row.justify-content-start{
+	margin-top: 10px !important;
+}
+.container-fluid.menu{
+	background-color: black;
+}
+
+.logoSector img{
+	width: 1920px;
+    height: 570px;
+    float: inherit;
+}
+
+.textMatch h2{
+	color: white;
+}
+
+.textMatch h3{
+	color: gray;
+}
+
+footer p {
+    text-align: center;
+    font-size: 30px;
+    color: #888;
+    margin-top: 10px;
+}
+
+#tableLeague {
+	margin-top: 10px !important;
+	width: 80%;
+    margin-left: 10%;
+    background-color: cadetblue;
+}
+#tableLeague th{
+	width: 2%;
+    font-size: 20px;
+    color: white;
+    background-color: navy;
+    text-align: center;
+}
+/*
+#cellPosition{
+	width: 2% !important;
+}
+*/
+#cellTeam{
+	width: 10% !important;
+}
+#tableLeague td{
+    font-size: 18px;
+    text-align: center;
+}
+
+#tableLeague td img{
+    width:25px;
+    height:25px;
+    margin-right: 5px;
+}
+
+.imageLeague{
+	 width: 250px;
+}
+#titleChooseLeague{
+    font-size: 40 px;
+    font-family: fantasy;
+    text-align: -webkit-center;
+    
+    color: white;
+    background-color: cadetblue;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 6px;
+}
+#subtitleChooseLeague{
+    font-size: 36px;
+    font-family: monospace;
+    text-align: -webkit-center;
+    
+    color: cornsilk; 
+    background-color: brown;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.divIconsLeagues{
+	float: left;
+    margin-left: 15%;
+    margin-top: 50px;
+	margin-top: 60px;
+    width: 290px;
+}
+#IconsEredivisie{
+	margin-top: 60px;
+    width: 290px;
+    margin-bottom: 38px;
+    text-align: -webkit-center;
+}
+#IconsSA{
+	width: 240px;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: -webkit-center;
+}
+#idlaliga{
+	height: 250px;
+}
+#IconsBundesliga{
+    width: 220px;
+    margin-top: 40px;
+    margin-left: 40px;
+	text-align: -webkit-center;
+}
+
+body{
+	background-size: 100% 100%;
+}
+body h1{
+	margin-left: 10%;
+	marging-top: 6px !important;
+	color: white;
+}
